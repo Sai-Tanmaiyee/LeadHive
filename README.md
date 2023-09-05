@@ -1,5 +1,6 @@
 # LeadHive
 Lead Management system developed using the Spring Boot framework and MongoDB as the database. Here's a brief overview of what this Lead Management application does:
+
 Purpose:
 The primary purpose of this application is to manage and track leads. Leads typically refer to potential customers or contacts who have shown interest in a product or service but have not yet become customers.
 
@@ -14,6 +15,8 @@ Delete Lead: Leads can be deleted from the system by sending a DELETE request wi
 
 Technology Stack:
 Spring Boot: Used for building the application, handling dependency injection, and providing a framework for RESTful web services.
+
 MongoDB: A NoSQL database used to store and manage lead data.
+
 HTTP: The application communicates with clients (e.g., a web browser or mobile app) using HTTP requests and responses
 
